@@ -1,0 +1,13 @@
+#googleMap {
+    width: 60%;
+    height: 300px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #f5f5ef;
+}
