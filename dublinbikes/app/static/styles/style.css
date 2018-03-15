@@ -11,3 +11,7 @@ html {
     border: 0;
     background-color: #f5f5ef;
 }
+
+h1, h6 {
+    text-align: center;
+}

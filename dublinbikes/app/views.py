@@ -4,6 +4,6 @@ from app import app
 @app.route('/')
 def index():
     returnDict = {}
-    returnDict['user'] = 'Dillon Friel'
-    returnDict['title'] = 'Home'
+    returnDict['user'] = 'User123'
+    returnDict['title'] = 'Dublin Bikes'
     return render_template("index.html", **returnDict)
