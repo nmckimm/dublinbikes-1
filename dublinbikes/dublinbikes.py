@@ -15,11 +15,6 @@ staticData = json.load(open('Dublin.json'))
 
 
 
-
-#pprint(staticData)
-#print(staticData[0]["name"])
-#print(staticData[57]["latitude"])
-
 apiKey = "2603fd2d637c4e725086b2d6628df910fa9337fd"
 base = 'https://api.jcdecaux.com/vls/v1/'
 
