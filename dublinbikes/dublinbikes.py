@@ -14,7 +14,6 @@ from datetime import datetime
 staticData = json.load(open('Dublin.json'))
 
 
-
 apiKey = "2603fd2d637c4e725086b2d6628df910fa9337fd"
 base = 'https://api.jcdecaux.com/vls/v1/'
 
