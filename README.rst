@@ -19,7 +19,6 @@ dublinbikes
 * Free software: MIT license
 * Documentation: https://dublinbikes.readthedocs.io.
 
-
 Features
 --------
 
