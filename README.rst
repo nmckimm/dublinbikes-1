@@ -16,17 +16,14 @@ dublinbikes
 
 
 
-Real Time Info For Dublin Bikes
-
-
 * Free software: MIT license
 * Documentation: https://dublinbikes.readthedocs.io.
-
 
 Features
 --------
 
-* TODO
+A web application to display both real-time information and trends of the Dublin Bikes available around Dublin
+City.
 
 Credits
 -------
